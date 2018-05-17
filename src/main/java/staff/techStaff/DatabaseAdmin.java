@@ -1,4 +1,4 @@
-package Staff.TechStaff;
+package staff.techStaff;
 
 public class DatabaseAdmin {
 }
